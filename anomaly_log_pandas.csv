@@ -1,0 +1,279 @@
+timestamp,anomaly_reason,detected_objects
+2025-10-28 17:17:19,Food detected: bottle,"microwave, person, bottle"
+2025-10-28 17:17:19,Food detected: bottle,bottle
+2025-10-28 17:17:20,Food detected: bottle,bottle
+2025-10-28 17:17:20,Empty chair detected,"bottle, bottle, chair"
+2025-10-28 17:17:20,Empty chair detected,"bottle, chair"
+2025-10-28 17:17:20,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:20,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:20,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:21,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:21,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:21,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:21,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:21,Empty chair detected,"chair, bottle, chair"
+2025-10-28 17:17:21,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:22,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:22,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:22,Empty chair detected,"chair, bottle, chair"
+2025-10-28 17:17:22,Empty chair detected,"microwave, chair, bottle"
+2025-10-28 17:17:22,Empty chair detected,"dining table, chair, bottle, chair"
+2025-10-28 17:17:22,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:22,Empty chair detected,"chair, chair"
+2025-10-28 17:17:23,Empty chair detected,"bottle, chair"
+2025-10-28 17:17:23,Empty chair detected,"bottle, chair"
+2025-10-28 17:17:23,Empty chair detected,"chair, chair, bottle"
+2025-10-28 17:17:23,Empty chair detected,"chair, bottle"
+2025-10-28 17:17:23,Empty chair detected,"dining table, bottle, chair"
+2025-10-28 17:17:23,Empty chair detected,"bottle, chair"
+2025-10-28 17:17:24,Food detected: bottle,bottle
+2025-10-28 17:17:24,Food detected: bottle,bottle
+2025-10-28 17:17:24,Food detected: bottle,"microwave, bottle"
+2025-10-28 17:17:24,Food detected: bottle,"microwave, bottle"
+2025-10-28 17:17:24,Food detected: bottle,"book, oven, bottle"
+2025-10-28 17:17:24,Food detected: bottle,"tv, bottle"
+2025-10-28 17:17:25,Food detected: bottle,"microwave, bottle"
+2025-10-28 17:17:25,Food detected: bottle,bottle
+2025-10-28 17:17:25,Food detected: bottle,"book, bottle"
+2025-10-28 17:17:25,Food detected: bottle,bottle
+2025-10-28 17:17:25,Food detected: bottle,bottle
+2025-10-28 17:17:25,Food detected: bottle,bottle
+2025-10-28 17:17:26,Food detected: bottle,bottle
+2025-10-28 17:17:26,Food detected: bottle,bottle
+2025-10-28 17:17:26,Empty chair detected,"bottle, chair"
+2025-10-28 17:17:26,Multiple people detected: 2 persons,"person, person"
+2025-10-28 17:17:27,Empty chair detected,"chair, chair"
+2025-10-28 17:17:27,Empty chair detected,"chair, chair, chair"
+2025-10-28 17:17:27,Multiple people detected: 2 persons,"chair, chair, person, person"
+2025-10-28 17:17:28,Empty chair detected,"chair, chair"
+2025-10-28 17:17:28,Empty chair detected,"chair, chair"
+2025-10-28 17:17:28,Multiple people detected: 2 persons,"chair, chair, chair, person, person"
+2025-10-28 17:17:28,Empty chair detected,"chair, chair, chair"
+2025-10-28 17:17:28,Empty chair detected,"chair, chair"
+2025-10-28 17:17:28,Empty chair detected,"chair, chair"
+2025-10-28 17:17:29,Empty chair detected,"chair, chair"
+2025-10-28 17:17:29,Empty chair detected,"chair, chair"
+2025-10-28 17:17:29,Multiple people detected: 2 persons,"chair, chair, person, person"
+2025-10-28 17:17:29,Empty chair detected,"chair, chair"
+2025-10-28 17:17:30,Multiple people detected: 2 persons,"chair, chair, person, person"
+2025-10-28 17:17:30,Multiple people detected: 2 persons,"chair, chair, person, person"
+2025-10-28 17:17:30,Multiple people detected: 2 persons,"chair, chair, person, person"
+2025-10-28 17:17:30,Multiple people detected: 2 persons,"chair, chair, person, person"
+2025-10-28 17:17:30,Multiple people detected: 2 persons,"chair, chair, person, person"
+2025-10-28 17:17:30,Multiple people detected: 2 persons,"chair, chair, person, person"
+2025-10-28 17:17:31,Multiple people detected: 2 persons,"chair, chair, person, chair, person"
+2025-10-28 17:17:31,Empty chair detected,"chair, chair"
+2025-10-28 17:17:31,Empty chair detected,"chair, chair, chair"
+2025-10-28 17:17:31,Empty chair detected,"chair, chair"
+2025-10-28 17:17:31,Empty chair detected,"laptop, dining table, chair, chair"
+2025-10-28 17:17:33,Empty chair detected,"bottle, chair"
+2025-10-28 17:17:33,Food detected: bottle,bottle
+2025-10-28 17:17:33,Food detected: bottle,bottle
+2025-10-28 17:17:35,Mobile phone detected,cell phone
+2025-10-28 17:17:35,Mobile phone detected,"cell phone, mouse"
+2025-10-28 17:17:36,Mobile phone detected,cell phone
+2025-10-28 17:17:36,Mobile phone detected,cell phone
+2025-10-28 17:17:38,Mobile phone detected,cell phone
+2025-10-28 17:17:39,Mobile phone detected,cell phone
+2025-10-28 17:17:39,Mobile phone detected,cell phone
+2025-10-28 17:17:40,Mobile phone detected,"cell phone, keyboard"
+2025-10-28 17:17:40,Mobile phone detected,cell phone
+2025-10-28 17:17:41,Mobile phone detected,cell phone
+2025-10-28 17:17:41,Mobile phone detected,cell phone
+2025-10-28 17:17:41,Mobile phone detected,cell phone
+2025-10-28 17:17:41,Mobile phone detected,cell phone
+2025-10-28 17:17:41,Mobile phone detected,cell phone
+2025-10-28 17:17:42,Mobile phone detected,cell phone
+2025-10-28 17:17:42,Mobile phone detected,cell phone
+2025-10-28 17:17:42,Mobile phone detected,cell phone
+2025-10-28 17:17:43,Mobile phone detected,cell phone
+2025-10-28 17:17:43,Mobile phone detected,cell phone
+2025-10-28 17:17:43,Mobile phone detected,cell phone
+2025-10-28 17:17:43,Mobile phone detected,cell phone
+2025-10-28 17:17:43,Mobile phone detected,cell phone
+2025-10-28 17:17:44,Mobile phone detected,cell phone
+2025-10-28 17:17:44,Mobile phone detected,cell phone
+2025-10-28 17:17:44,Mobile phone detected,cell phone
+2025-10-28 17:17:44,Mobile phone detected,cell phone
+2025-10-28 17:17:45,Mobile phone detected,cell phone
+2025-10-28 17:17:45,Mobile phone detected,cell phone
+2025-10-28 17:17:45,Mobile phone detected,cell phone
+2025-10-28 17:17:45,Mobile phone detected,cell phone
+2025-10-28 17:17:45,Mobile phone detected,cell phone
+2025-10-28 17:17:45,Mobile phone detected,"cell phone, person"
+2025-10-28 17:17:46,Mobile phone detected,cell phone
+2025-10-28 17:17:46,Mobile phone detected,cell phone
+2025-10-28 17:17:46,Mobile phone detected,"suitcase, cell phone"
+2025-10-28 17:17:46,Mobile phone detected,cell phone
+2025-10-28 17:17:46,Mobile phone detected,cell phone
+2025-10-28 17:17:46,Mobile phone detected,cell phone
+2025-10-28 17:17:47,Mobile phone detected,cell phone
+2025-10-28 17:17:47,Mobile phone detected,cell phone
+2025-10-28 17:17:47,Mobile phone detected,cell phone
+2025-10-28 17:17:47,Mobile phone detected,cell phone
+2025-10-28 17:17:47,Mobile phone detected,cell phone
+2025-10-28 17:17:47,Mobile phone detected,cell phone
+2025-10-28 17:17:48,Mobile phone detected,cell phone
+2025-10-28 17:17:48,Mobile phone detected,cell phone
+2025-10-28 17:17:48,Mobile phone detected,cell phone
+2025-10-28 17:17:48,Mobile phone detected,"cell phone, book"
+2025-10-28 17:17:48,Mobile phone detected,cell phone
+2025-10-28 17:17:48,Mobile phone detected,cell phone
+2025-10-28 17:17:49,Mobile phone detected,"book, cell phone"
+2025-10-28 17:17:49,Mobile phone detected,cell phone
+2025-10-28 17:17:49,Mobile phone detected,cell phone
+2025-10-28 17:17:49,Mobile phone detected,cell phone
+2025-10-28 17:17:49,Mobile phone detected,cell phone
+2025-10-28 17:17:49,Mobile phone detected,cell phone
+2025-10-28 17:17:50,Mobile phone detected,cell phone
+2025-10-28 17:17:50,Mobile phone detected,cell phone
+2025-10-28 17:17:50,Mobile phone detected,cell phone
+2025-10-28 17:17:50,Mobile phone detected,"book, cell phone"
+2025-10-28 17:17:51,Mobile phone detected,"book, cell phone"
+2025-10-28 17:17:51,Mobile phone detected,cell phone
+2025-10-28 17:17:51,Mobile phone detected,"cell phone, book"
+2025-10-28 17:17:51,Mobile phone detected,"book, cell phone"
+2025-10-28 17:17:51,Mobile phone detected,"book, cell phone"
+2025-10-28 17:17:51,Mobile phone detected,cell phone
+2025-10-28 17:17:52,Mobile phone detected,"cell phone, book"
+2025-10-28 17:17:52,Mobile phone detected,cell phone
+2025-10-28 17:17:52,Mobile phone detected,cell phone
+2025-10-28 17:17:52,Mobile phone detected,cell phone
+2025-10-28 17:17:52,Multiple people detected: 2 persons,"person, person"
+2025-10-28 17:17:53,Mobile phone detected,"person, cell phone"
+2025-10-28 17:17:54,Mobile phone detected,"book, cell phone"
+2025-10-28 17:17:54,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:17:54,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:17:54,Mobile phone detected,"cell phone, keyboard"
+2025-10-28 17:17:56,Mobile phone detected,cell phone
+2025-10-28 17:17:56,Mobile phone detected,cell phone
+2025-10-28 17:17:58,Mobile phone detected,"book, cell phone"
+2025-10-28 17:17:58,Mobile phone detected,cell phone
+2025-10-28 17:17:59,Mobile phone detected,"handbag, cell phone"
+2025-10-28 17:18:01,Mobile phone detected,cell phone
+2025-10-28 17:18:01,Mobile phone detected,cell phone
+2025-10-28 17:18:01,Mobile phone detected,cell phone
+2025-10-28 17:18:02,Mobile phone detected,cell phone
+2025-10-28 17:18:02,Mobile phone detected,cell phone
+2025-10-28 17:18:02,Mobile phone detected,cell phone
+2025-10-28 17:18:03,Mobile phone detected,cell phone
+2025-10-28 17:18:04,Mobile phone detected,cell phone
+2025-10-28 17:18:05,Mobile phone detected,cell phone
+2025-10-28 17:18:05,Mobile phone detected,cell phone
+2025-10-28 17:18:05,Mobile phone detected,cell phone
+2025-10-28 17:18:07,Mobile phone detected,cell phone
+2025-10-28 17:18:07,Mobile phone detected,cell phone
+2025-10-28 17:18:08,Mobile phone detected,cell phone
+2025-10-28 17:18:08,Mobile phone detected,"cell phone, keyboard"
+2025-10-28 17:18:08,Mobile phone detected,"cell phone, keyboard"
+2025-10-28 17:18:08,Mobile phone detected,"keyboard, cell phone"
+2025-10-28 17:18:08,Mobile phone detected,cell phone
+2025-10-28 17:18:08,Mobile phone detected,cell phone
+2025-10-28 17:18:09,Mobile phone detected,cell phone
+2025-10-28 17:18:09,Mobile phone detected,"cell phone, keyboard"
+2025-10-28 17:18:09,Mobile phone detected,"cell phone, keyboard"
+2025-10-28 17:18:09,Mobile phone detected,cell phone
+2025-10-28 17:18:09,Mobile phone detected,"cell phone, sports ball"
+2025-10-28 17:18:10,Mobile phone detected,cell phone
+2025-10-28 17:18:10,Mobile phone detected,cell phone
+2025-10-28 17:18:10,Mobile phone detected,cell phone
+2025-10-28 17:18:10,Mobile phone detected,cell phone
+2025-10-28 17:18:10,Mobile phone detected,cell phone
+2025-10-28 17:18:11,Mobile phone detected,cell phone
+2025-10-28 17:18:11,Mobile phone detected,cell phone
+2025-10-28 17:18:11,Mobile phone detected,cell phone
+2025-10-28 17:18:11,Mobile phone detected,cell phone
+2025-10-28 17:18:12,Mobile phone detected,cell phone
+2025-10-28 17:18:12,Mobile phone detected,cell phone
+2025-10-28 17:18:12,Mobile phone detected,cell phone
+2025-10-28 17:18:12,Mobile phone detected,cell phone
+2025-10-28 17:18:12,Mobile phone detected,cell phone
+2025-10-28 17:18:13,Mobile phone detected,cell phone
+2025-10-28 17:18:13,Mobile phone detected,cell phone
+2025-10-28 17:18:13,Mobile phone detected,cell phone
+2025-10-28 17:18:13,Mobile phone detected,cell phone
+2025-10-28 17:18:14,Mobile phone detected,cell phone
+2025-10-28 17:18:14,Mobile phone detected,cell phone
+2025-10-28 17:18:14,Mobile phone detected,cell phone
+2025-10-28 17:18:14,Mobile phone detected,cell phone
+2025-10-28 17:18:15,Mobile phone detected,cell phone
+2025-10-28 17:18:15,Mobile phone detected,cell phone
+2025-10-28 17:18:18,Mobile phone detected,cell phone
+2025-10-28 17:18:19,Mobile phone detected,cell phone
+2025-10-28 17:18:20,Mobile phone detected,cell phone
+2025-10-28 17:18:21,Mobile phone detected,cell phone
+2025-10-28 17:18:22,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:18:24,Mobile phone detected,cell phone
+2025-10-28 17:18:24,Mobile phone detected,"cell phone, laptop"
+2025-10-28 17:18:24,Mobile phone detected,"cell phone, laptop, keyboard"
+2025-10-28 17:18:25,Mobile phone detected,cell phone
+2025-10-28 17:18:25,Mobile phone detected,cell phone
+2025-10-28 17:18:27,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:18:28,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:18:30,Mobile phone detected,cell phone
+2025-10-28 17:18:30,Mobile phone detected,cell phone
+2025-10-28 17:18:31,Mobile phone detected,cell phone
+2025-10-28 17:18:31,Mobile phone detected,cell phone
+2025-10-28 17:18:39,Mobile phone detected,"keyboard, keyboard, cell phone"
+2025-10-28 17:18:39,Mobile phone detected,"keyboard, cell phone"
+2025-10-28 17:18:40,Mobile phone detected,"keyboard, keyboard, cell phone"
+2025-10-28 17:18:40,Mobile phone detected,"keyboard, cell phone"
+2025-10-28 17:18:40,Mobile phone detected,"keyboard, keyboard, cell phone"
+2025-10-28 17:18:40,Mobile phone detected,"keyboard, keyboard, cell phone"
+2025-10-28 17:18:41,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:18:41,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:18:41,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:41,Mobile phone detected,"laptop, cell phone, keyboard"
+2025-10-28 17:18:42,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:42,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:42,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:42,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:43,Mobile phone detected,"laptop, cell phone, microwave, keyboard, keyboard"
+2025-10-28 17:18:43,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:43,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:43,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:43,Mobile phone detected,"laptop, cell phone, microwave, keyboard, keyboard"
+2025-10-28 17:18:43,Mobile phone detected,"cell phone, keyboard, keyboard"
+2025-10-28 17:18:44,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:44,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:44,Mobile phone detected,"laptop, suitcase, cell phone, keyboard, keyboard"
+2025-10-28 17:18:44,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:44,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:44,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:45,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:45,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:45,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:45,Mobile phone detected,"laptop, cell phone, microwave, keyboard, keyboard"
+2025-10-28 17:18:45,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:46,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:46,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:46,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:46,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:46,Mobile phone detected,"cell phone, keyboard, keyboard"
+2025-10-28 17:18:47,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:47,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:48,Mobile phone detected,"laptop, cell phone, microwave, keyboard, keyboard"
+2025-10-28 17:18:48,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:49,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:49,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:49,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:50,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:50,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:50,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:50,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:50,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:51,Mobile phone detected,"laptop, cell phone, microwave, keyboard, keyboard"
+2025-10-28 17:18:51,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:51,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:51,Mobile phone detected,"laptop, cell phone, keyboard, keyboard"
+2025-10-28 17:18:51,Mobile phone detected,"laptop, cell phone, keyboard"
+2025-10-28 17:18:52,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:18:52,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:18:53,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:18:53,Mobile phone detected,"laptop, cell phone, keyboard"
+2025-10-28 17:18:53,Mobile phone detected,"laptop, cell phone, keyboard"
+2025-10-28 17:18:54,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:18:54,Mobile phone detected,"laptop, cell phone"
+2025-10-28 17:18:57,Mobile phone detected,"laptop, cell phone, keyboard"
+2025-10-28 17:18:57,Mobile phone detected,"laptop, keyboard, cell phone"
+2025-10-28 17:18:57,Mobile phone detected,"laptop, cell phone, keyboard"
