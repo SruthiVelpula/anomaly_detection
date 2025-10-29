@@ -1,0 +1,11 @@
+camera: "/dev/video0"
+network: "ssd-mobilenet-v2"
+threshold: 0.5
+
+rules:
+  forbidden_classes: ["cell phone", "apple", "banana", "sandwich", "bottle", "cup"]
+  max_people: 1
+  empty_chair_check: true
+
+save_every_n_anomalies: 10
+output_dir: "outputs"
