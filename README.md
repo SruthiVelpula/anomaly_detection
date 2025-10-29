@@ -4,6 +4,14 @@ This project implements a real-time anomaly detection system using NVIDIA Jetson
 It continuously monitors a live camera feed, detects objects using a pretrained SSD-Mobilenet-V2 model,  
 and flags anomalies such as food items, mobile phones, multiple people, or empty chairs.
 
+## Demo & Downloads
+You can download example images and logs from the latest release:  
+[**First Demo Assets (v0.1.0)**](https://github.com/SruthiVelpula/anomaly_detection/releases/tag/v0.1.0)
+
+**Includes:**
+- `anomaly_images.zip` — sample anomaly frames  
+- `anomaly_log.csv` / `anomaly_log_pandas.csv` — example outputs
+
 
 
 ## Objective
