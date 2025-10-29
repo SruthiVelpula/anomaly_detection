@@ -31,14 +31,14 @@ such as workplace safety, lab monitoring, and behavioral analytics.
 
 ### Software
 - JetPack 4.x or 5.x (includes CUDA, cuDNN, TensorRT)
-- `jetson-inference` and `jetson-utils`
+- `Jetson-inference` and `jetson-utils`
 - Python 3
 - `pandas` (install using `pip3 install pandas`)
 
 
 ## Output Files
 anomaly_log.csv - Real-time log of detected anomalies
-anomaly_log_pandas.csv - Pandas DataFrame export (every 10 anomaly frames)
+anomaly_log_pandas.csv - pandas DataFrame export (every 10 anomaly frames)
 anomaly_*.jpg - Screenshots of each anomaly frame
 
 ## Project Structure
@@ -76,12 +76,12 @@ anomaly-detection-docker/
 ### Step 1: Install Dependencies
 
 sudo apt-get update
-pip3 install panda
+pip3 install pandas
 
 # Output Files
 File Name	                Description
 anomaly_log.csv	          Real-time log of detected anomalies
-anomaly_log_pandas.csv	    Pandas DataFrame export (every 10 anomaly frames)
+anomaly_log_pandas.csv	    pandas DataFrame export (every 10 anomaly frames)
 anomaly_*.jpg	             Screenshots of each anomaly frame
 
 Detected: ['person', 'chair']
