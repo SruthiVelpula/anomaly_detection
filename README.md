@@ -4,7 +4,7 @@ This project implements a real-time anomaly detection system using NVIDIA Jetson
 It continuously monitors a live camera feed, detects objects using a pretrained SSD-Mobilenet-V2 model,  
 and flags anomalies such as food items, mobile phones, multiple people, or empty chairs.
 
----
+
 
 ## Objective
 
@@ -14,7 +14,6 @@ in real time using object detection and rule-based logic on an edge device.
 This project demonstrates how computer vision and AI can be applied to practical monitoring use cases  
 such as workplace safety, lab monitoring, and behavioral analytics.
 
----
 
 ## System Requirements
 
@@ -28,12 +27,12 @@ such as workplace safety, lab monitoring, and behavioral analytics.
 - Python 3
 - `pandas` (install using `pip3 install pandas`)
 
----
-Output Files
-File Name	Description
-anomaly_log.csv	Real-time log of detected anomalies
-anomaly_log_pandas.csv	Pandas DataFrame export (every 10 anomaly frames)
-anomaly_*.jpg	Screenshots of each anomaly frame
+
+## Output Files
+anomaly_log.csv - Real-time log of detected anomalies
+anomaly_log_pandas.csv - Pandas DataFrame export (every 10 anomaly frames)
+anomaly_*.jpg - Screenshots of each anomaly frame
+
 ## Project Structure
 
 anomaly-detection-docker/
@@ -71,11 +70,11 @@ anomaly-detection-docker/
 sudo apt-get update
 pip3 install panda
 
-##Output Files
-File Name	Description
-anomaly_log.csv	Real-time log of detected anomalies
-anomaly_log_pandas.csv	Pandas DataFrame export (every 10 anomaly frames)
-anomaly_*.jpg	Screenshots of each anomaly frame
+# Output Files
+File Name	                Description
+anomaly_log.csv	          Real-time log of detected anomalies
+anomaly_log_pandas.csv	    Pandas DataFrame export (every 10 anomaly frames)
+anomaly_*.jpg	             Screenshots of each anomaly frame
 
 Detected: ['person', 'chair']
 [ALERT] 2025-10-28 16:05:13 -> Empty chair detected
@@ -85,19 +84,19 @@ Detected: ['person', 'chair']
 
 
 
-##Use Cases
+## Use Cases
 Workplace monitoring to detect unsafe conditions or absence of personnel
 Cafeteria or laboratory analysis to identify the presence of food items or mobile phones in restricted areas
 AI research or demonstration projects for real-time computer vision applications
 
-##Future Enhancements
+## Future Enhancements
 Integrate helmet or mask detection
 Stream live alerts to a dashboard or web application
 Containerize the project using Docker for easy deployment
 Store logs in a database (SQLite or PostgreSQL)
 Add YOLO or DetectNet models for higher detection accuracy
 
-##Author
+## Author
 Sruthi Velpula
 Graduate Student, MPS Data Science – University of Maryland, Baltimore County (UMBC)
 LinkedIn: https://www.linkedin.com/in/sruthi-velpula/
