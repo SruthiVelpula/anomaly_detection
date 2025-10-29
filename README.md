@@ -100,9 +100,7 @@ AI research or demonstration projects for real-time computer vision applications
 ## Future Enhancements
 Integrate helmet or mask detection
 Stream live alerts to a dashboard or web application
-Containerize the project using Docker for easy deployment
-Store logs in a database (SQLite or PostgreSQL)
-Add YOLO or DetectNet models for higher detection accuracy
+ 
 
 ## Author
 Sruthi Velpula
